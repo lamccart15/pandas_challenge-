@@ -1,0 +1,11 @@
+﻿PANDAS CHALLENGE – HEROES OF PYMOLI – INSIGHTS
+Lauren McCarthy 
+March 24th, 2021
+
+The following insights can be drawn from the analysis of the provided purchasing data: 
+- The majority of players are male. 
+- The majority of players are within the ages of 15 to 29. 
+- The most profitable age group is 20-24. 
+- The “Final Critic”, the “Oathbreaker, Last Hope of the Breaking Storm”, and the “Fiery Glass Crusader” are amongst the most popular and most profitable items in the game. 
+
+
